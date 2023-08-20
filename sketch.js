@@ -20,9 +20,9 @@ let r = 0;
 
 //Must preload images
 function preload() {
-  infographic = loadImage("infographic.png");
-  arrow = loadImage("arrow.png");
-  potato = loadImage("potato.png");
+  infographic = loadImage("infographic.jpg");
+  arrow = loadImage("arrow.jpg");
+  potato = loadImage("potato.jpg");
 }
 
 function setup() {
