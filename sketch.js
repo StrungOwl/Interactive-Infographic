@@ -7,6 +7,8 @@
 //For best button experience
 //Create button functions, create a boolean that switches in the mousePressed function
 
+//Comment out in VS Code by ctrl /
+
 //Variable for Images
 let infographic;
 let arrow;
